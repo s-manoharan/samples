@@ -1,0 +1,8 @@
+Video sample
+============
+
+Blog with video embedded: 
+https://community.ibm.com/community/user/blogs/archive-user/2020/05/28/video-tutorial-how-to-deploy-ibm-spectrum-symphony-7202-on-ibm-cloud-private
+
+Direct link to video on Youtube: 
+https://www.youtube.com/watch?v=M42as3CnaPE&t=133s

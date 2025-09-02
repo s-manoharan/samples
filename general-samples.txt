@@ -1,0 +1,49 @@
+General writing samples
+=======================
+
+Developer documentation:
+------------------------
+
+Building Responsive Applications with Visual Builder Studio (landing page for a guide I owned):
+https://docs.oracle.com/en/cloud/paas/visual-builder/visualbuilder-building-applications/index.html
+
+- Manage Your Visual Application With Git (Git feature owner):
+https://docs.oracle.com/en/cloud/paas/visual-builder/visualbuilder-building-applications/manage-your-visual-applications-git1.html
+
+- Work With Fragments (fragments feature owner):
+https://docs.oracle.com/en/cloud/paas/visual-builder/visualbuilder-building-applications/work-fragments1.html
+
+- Fragment sample for developers:
+https://docs.oracle.com/en/cloud/paas/visual-builder/visualbuilder-building-appui/sample-scenario-create-fragment-and-pass-values.html
+
+
+User documentation:
+------------------
+
+Cloud bursting with host factory (Host Factory feature owner):
+https://www.ibm.com/docs/en/spectrum-conductor/2.4.0?topic=workload-host-factory
+
+Sample for business users:
+https://www.ibm.com/docs/en/spectrum-symphony/7.3.1?topic=started-sample-value-risk-var-simulation
+
+Schema reference:
+https://www.ibm.com/docs/en/spectrum-conductor/2.4.0?topic=reference-application-template
+
+What's New:
+https://docs.oracle.com/en/cloud/paas/visual-builder/visualbuilder-whats-new/index.html
+
+https://www.ibm.com/docs/en/spectrum-conductor/2.4.0?topic=notes-whats-new-changed-in-spectrum-conductor
+
+Installation:
+https://www.ibm.com/docs/en/spectrum-conductor/2.4.0?topic=upgrade-installation-roadmap
+
+
+Blogs:
+------
+
+New release announcement:
+https://community.ibm.com/community/user/blogs/archive-user/2020/05/28/ibm-spectrum-conductor-with-spark-v210
+
+Special functionality announcement:
+https://community.ibm.com/community/user/blogs/archive-user/2020/05/28/ibm-spectrum-symphony-now-with-ibm-cloud-private
+

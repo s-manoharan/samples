@@ -1,0 +1,10 @@
+API References
+==============
+
+Created a brand-new API reference for REST APIs relating to cloud bursting while at IBM:
+https://www.ibm.com/docs/en/spectrum-conductor/2.4.0?topic=references-host-factory-restful-apis
+
+Contributed to REST API references for Visual Builder and Visual Builder Studio at Oracle:
+https://docs.oracle.com/en/cloud/paas/app-builder-cloud/vb-rest-apis/quick-start.html
+
+https://docs.oracle.com/en/cloud/paas/visual-builder/vb-rest-apis/index.html
