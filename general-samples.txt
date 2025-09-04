@@ -21,6 +21,9 @@ https://docs.oracle.com/en/cloud/paas/visual-builder/visualbuilder-building-appl
 User documentation:
 ------------------
 
+Image map with clickable links for installation roadmap:
+https://www.ibm.com/docs/en/spectrum-conductor/2.4.0?topic=upgrade-installation-roadmap
+
 Cloud bursting with host factory (Host Factory feature owner):
 https://www.ibm.com/docs/en/spectrum-conductor/2.4.0?topic=workload-host-factory
 
@@ -47,5 +50,6 @@ https://community.ibm.com/community/user/blogs/archive-user/2020/05/28/ibm-spect
 
 Special functionality announcement:
 https://community.ibm.com/community/user/blogs/archive-user/2020/05/28/ibm-spectrum-symphony-now-with-ibm-cloud-private
+
 
 
