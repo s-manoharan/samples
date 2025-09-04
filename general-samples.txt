@@ -14,8 +14,9 @@ https://docs.oracle.com/en/cloud/paas/visual-builder/visualbuilder-building-appl
 https://docs.oracle.com/en/cloud/paas/visual-builder/visualbuilder-building-applications/work-fragments1.html
 
 - Fragment sample for developers:
+https://docs.oracle.com/en/cloud/paas/visual-builder/visualbuilder-building-applications/sample-scenario-create-fragment-and-pass-values.html
 https://docs.oracle.com/en/cloud/paas/visual-builder/visualbuilder-building-appui/sample-scenario-create-fragment-and-pass-values.html
-
+https://docs.oracle.com/en/cloud/paas/visual-builder/visualbuilder-building-applications/create-custom-events-that-emit-fragments-parent-container.html
 
 User documentation:
 ------------------
@@ -46,4 +47,5 @@ https://community.ibm.com/community/user/blogs/archive-user/2020/05/28/ibm-spect
 
 Special functionality announcement:
 https://community.ibm.com/community/user/blogs/archive-user/2020/05/28/ibm-spectrum-symphony-now-with-ibm-cloud-private
+
 
