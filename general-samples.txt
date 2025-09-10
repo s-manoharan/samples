@@ -13,10 +13,15 @@ https://docs.oracle.com/en/cloud/paas/visual-builder/visualbuilder-building-appl
 - Work With Fragments (fragments feature owner):
 https://docs.oracle.com/en/cloud/paas/visual-builder/visualbuilder-building-applications/work-fragments1.html
 
-- Fragment sample for developers:
-https://docs.oracle.com/en/cloud/paas/visual-builder/visualbuilder-building-applications/sample-scenario-create-fragment-and-pass-values.html
-https://docs.oracle.com/en/cloud/paas/visual-builder/visualbuilder-building-appui/sample-scenario-create-fragment-and-pass-values.html
-https://docs.oracle.com/en/cloud/paas/visual-builder/visualbuilder-building-applications/create-custom-events-that-emit-fragments-parent-container.html
+  -- Fragment sample based on a particular use case:
+  https://docs.oracle.com/en/cloud/paas/visual-builder/visualbuilder-building-applications/sample-scenario-create-fragment-and-pass-values.html
+  https://docs.oracle.com/en/cloud/paas/visual-builder/visualbuilder-building-appui/sample-scenario-create-fragment-and-pass-values.html
+  https://docs.oracle.com/en/cloud/paas/visual-builder/visualbuilder-building-applications/create-custom-events-that-emit-fragments-parent-container.html
+
+General use cases:
+https://docs.oracle.com/en/cloud/paas/visual-builder/visualbuilder-building-applications/abort-pending-rest-calls.html
+https://docs.oracle.com/en/cloud/paas/visual-builder/visualbuilder-building-applications/modify-tables-default-display.html
+https://docs.oracle.com/en/cloud/paas/visual-builder/visualbuilder-building-applications/sort-data-table-columns.html
 
 User documentation:
 ------------------
@@ -42,14 +47,6 @@ Installation:
 https://www.ibm.com/docs/en/spectrum-conductor/2.4.0?topic=upgrade-installation-roadmap
 
 
-Blogs:
-------
-
-New release announcement:
-https://community.ibm.com/community/user/blogs/archive-user/2020/05/28/ibm-spectrum-conductor-with-spark-v210
-
-Special functionality announcement:
-https://community.ibm.com/community/user/blogs/archive-user/2020/05/28/ibm-spectrum-symphony-now-with-ibm-cloud-private
 
 
 
